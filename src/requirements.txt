@@ -1,10 +1,10 @@
 numpy
-imageio==2.9.0
+imageio
 Pillow
 PyQt6
-dataclasses==0.6
-pyyaml~=6.0
+dataclasses
+pyyaml
 psutil
-wget==3.2
+wget
 colorlog==4.1.0
 future-annotations
